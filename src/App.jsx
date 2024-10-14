@@ -1,14 +1,13 @@
-import React from 'react'
-import { Pokemon } from './Pokemon'
+/* eslint-disable no-unused-vars */
+import React from "react";
+import { Pokemon } from "./Pokemon";
 
 const App = () => {
   return (
     <div>
-    <Pokemon/>
-
-      
+      <Pokemon />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
